@@ -1,0 +1,64 @@
+version: "3"
+
+services:
+  webserver:
+    build:
+      context: ./bin/php8
+    container_name: "sahin-software-php8"
+    restart: "always"
+    ports:
+      - "80:80"
+      - "443:443"
+    links:
+      - database
+    volumes:
+      - ./httpd.www:/var/www/html
+      - ./config/php/php.ini:/usr/local/etc/php/php.ini
+      - ./config/vhosts:/etc/apache2/sites-enabled
+      - ./logs/apache2:/var/log/apache2
+    environment:
+      APACHE_DOCUMENT_ROOT: /var/www/html
+      PMA_PORT: 8080
+      MYSQL_ROOT_PASSWORD: password
+  database:
+    build:
+      context: "./bin/mariadb103"
+    container_name: "sahin-software-mariadb103"
+    restart: "always"
+    ports:
+      - "127.0.0.1:3306:3306"
+    volumes:
+      - ./config/initdb:/docker-entrypoint-initdb.d
+      - ./data/mysql:/var/lib/mysql
+      - ./logs/mysql:/var/log/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: mr-sahin
+      MYSQL_USER: mr-sahin
+      MYSQL_PASSWORD: password
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: "sahin-software-phpmyadmin"
+    links:
+      - database
+    environment:
+      PMA_HOST: database
+      PMA_PORT: 3306
+      PMA_USER: root
+      PMA_PASSWORD: password
+      PMA_VERBOSE: ""
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: mr-sahin
+      MYSQL_PASSWORD: password
+      UPLOAD_LIMIT: 1G
+      MEMORY_LIMIT: 1G
+    ports:
+      - "8080:80"
+    volumes:
+      - /sessions
+      - ./config/php/php.ini:/usr/local/etc/php/conf.d/php-phpmyadmin.ini
+  redis:
+    container_name: "sahin-software-redis"
+    image: redis:latest
+    ports:
+      - "127.0.0.1:6379:6379"
