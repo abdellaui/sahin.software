@@ -19,7 +19,6 @@ include('./NAVBAR.php');
 
 <?php
   include './about.php';
-  include './clients.php';
   include './service.php';
   include './references.php';
   include './contact.php';
