@@ -14,8 +14,14 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <div class="col-lg-3 col-md-6 footer-contact">
           <h3>sahin<span>.software</span></h3>
           <p>
-            Panama City<br>
-            Panamá <br><br>
+            <p>Panama City</p>
+            <p>0801 Panamá</p>
+            <p>Panama</p>
+            <hr>
+            <p>Hofsteder Str. 141</p>
+            <p>44809 Bochum, NRW</p>
+            <p>Germany</p>
+            <hr>
             <strong>Phone:</strong> <?= getTelefonNumber(); ?><br>
             <strong>Email:</strong> <?= getMail('contact'); ?><br>
           </p>
@@ -37,7 +43,10 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="#services">Project-Management</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="#services">Cloud-Computing</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">Operations</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="#services">DevOps</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">SEO Optimization</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="#services">Coaching</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="#services">Pentesting & Cyber-Security and Auditing</a></li>
           </ul>
