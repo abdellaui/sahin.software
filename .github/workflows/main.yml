@@ -20,7 +20,7 @@ jobs:
         port: 21
         protocol: ftp
         local-dir: httpd.www/
-        server-dir: /html/sahin.software/
+        server-dir: ${{ secrets.ftp_server_dir }}
         log-level: minimal
         security: strict
         exclude: |
