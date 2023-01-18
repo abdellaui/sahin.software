@@ -56,10 +56,8 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
           <h4>Our Social Networks</h4>
           <p>We do not manage other social media accounts.</p>
           <div class="social-links mt-3">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
             <a href="https://instagram.com/sahin.uk" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+            <a href="https://linkedin.com/company/sahin-software" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
           </div>
         </div>
 
