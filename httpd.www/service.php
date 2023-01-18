@@ -18,7 +18,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-book-content"></i></div>
-                    <h4><a href="">Project-Management</a></h4>
+                    <h4><a href="#services">Project-Management</a></h4>
                     <p>Taking over your project-management and getting your project in short time to success.</p>
                 </div>
             </div>
@@ -26,7 +26,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-cloud"></i></div>
-                    <h4><a href="">Cloud-Computing</a></h4>
+                    <h4><a href="#services">Cloud-Computing</a></h4>
                     <p>Experienced in migration your on-premise infrastructure to the AWS, Azure & GCP Cloud.</p>
                 </div>
             </div>
@@ -34,7 +34,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-code-alt"></i></div>
-                    <h4><a href="">Development</a></h4>
+                    <h4><a href="#services">Development</a></h4>
                     <p>Developing what you want, complexity does not matter, and can provide it as a serivce.</p>
                 </div>
             </div>
@@ -42,7 +42,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-terminal"></i></div>
-                    <h4><a href="">Operations</a></h4>
+                    <h4><a href="#services">Operations</a></h4>
                     <p>Operating your custom solutions from SAP to complex software. Improving your IT-operation to a GitOps based solution.</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-git-merge"></i></div>
-                    <h4><a href="">DevOps</a></h4>
+                    <h4><a href="#services">DevOps</a></h4>
                     <p>Building your software and manage it with the GitOps-approach.</p>
                 </div>
             </div>
@@ -58,7 +58,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-command"></i></div>
-                    <h4><a href="">SEO Optimization</a></h4>
+                    <h4><a href="#services">SEO Optimization</a></h4>
                     <p>Optimizing your websites, online-shops & services to get better results in any search-engine.</p>
                 </div>
             </div>
@@ -66,7 +66,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bxs-graduation"></i></div>
-                    <h4><a href="">Coaching</a></h4>
+                    <h4><a href="#services">Coaching</a></h4>
                     <p>Teaching your employeers state-of-the-art technology-stacks.</p>
                 </div>
             </div>
@@ -74,7 +74,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-spreadsheet"></i></div>
-                    <h4><a href="">Pentesting & Cyber-Security and Auditing</a></h4>
+                    <h4><a href="#services">Pentesting & Cyber-Security and Auditing</a></h4>
                     <p>Pentesting & inspecting your IT for security issues and passing any regulatory or any requirements.</p>
                 </div>
             </div>
