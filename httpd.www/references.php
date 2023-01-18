@@ -38,18 +38,6 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <h3>siptv.space</h3>
-                <h4>Smart IP TV</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  A complex IT solution for streaming smart IP TV.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End Reference item-->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
                 <h3>Automobile-Residence</h3>
                 <h4>Website</h4>
                 <p>
