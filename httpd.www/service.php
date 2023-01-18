@@ -15,7 +15,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         </div>
 
         <div class="row">
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-book-content"></i></div>
                     <h4><a href="">Project-Management</a></h4>
@@ -23,7 +23,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-cloud"></i></div>
                     <h4><a href="">Cloud-Computing</a></h4>
@@ -31,7 +31,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-code-alt"></i></div>
                     <h4><a href="">Development</a></h4>
@@ -39,7 +39,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-terminal"></i></div>
                     <h4><a href="">Operations</a></h4>
@@ -47,7 +47,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-git-merge"></i></div>
                     <h4><a href="">DevOps</a></h4>
@@ -55,7 +55,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-command"></i></div>
                     <h4><a href="">SEO Optimization</a></h4>
@@ -63,7 +63,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bxs-graduation"></i></div>
                     <h4><a href="">Coaching</a></h4>
@@ -71,7 +71,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="0">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-spreadsheet"></i></div>
                     <h4><a href="">Pentesting & Cyber-Security and Auditing</a></h4>

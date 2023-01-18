@@ -9,7 +9,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
     <section id="references" class="testimonials">
       <div class="container" data-aos="zoom-in">
 
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="0">
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">

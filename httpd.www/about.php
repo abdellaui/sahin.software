@@ -16,10 +16,10 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         </div>
 
         <div class="row">
-            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="0">
                 <img src="assets/img/about.jpg" class="img-fluid" alt="">
             </div>
-            <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="0">
                 <h3>We are an it-consulting company.</h3>
                 <p class="fst-italic">
                     Owning more than hundred years experience in all area of it.

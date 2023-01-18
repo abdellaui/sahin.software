@@ -8,7 +8,7 @@ include('./NAVBAR.php');
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
-    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+    <div class="container" data-aos="zoom-out" data-aos-delay="0">
       <h1>Welcome to sahin<span>.software</span></h1>
       <h2><span>IT</span> Consulting.</h2>
     </div>
