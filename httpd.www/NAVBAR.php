@@ -46,7 +46,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </li>
                 <li><a class="nav-link scrollto" href="#references">References</a></li>
                 <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                <li><a class="nav-link scrollto" href="#team">Career</a></li>
+                <li><a class="nav-link scrollto" href="https://sahin.software/cats/careers/index.php?m=careers&p=showAll" target="_blank">Career</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
