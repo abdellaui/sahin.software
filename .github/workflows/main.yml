@@ -26,3 +26,4 @@ jobs:
         exclude: |
           **/.git*
           **/.git*/**
+          /httpd.www/cats*
