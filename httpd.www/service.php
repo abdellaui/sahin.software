@@ -23,7 +23,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-cloud"></i></div>
                     <h4><a href="">Cloud-Computing</a></h4>
@@ -31,7 +31,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-code-alt"></i></div>
                     <h4><a href="">Development</a></h4>
@@ -43,7 +43,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-terminal"></i></div>
                     <h4><a href="">Operations</a></h4>
-                    <p>Operating your custom solutions from SAP to complex software.</p>
+                    <p>Operating your custom solutions from SAP to complex software. Improving your IT-operation to a GitOps based solution.</p>
                 </div>
             </div>
 
