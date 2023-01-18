@@ -14,16 +14,16 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <div class="col-lg-3 col-md-6 footer-contact">
           <h3>sahin<span>.software</span></h3>
           <p>
-            <p>Panama City</p>
-            <p>0801 Panamá</p>
-            <p>Panama</p>
-            <hr>
-            <p>Hofsteder Str. 141</p>
-            <p>44809 Bochum, NRW</p>
-            <p>Germany</p>
-            <hr>
-            <strong>Phone:</strong> <?= getTelefonNumber(); ?><br>
-            <strong>Email:</strong> <?= getMail('contact'); ?><br>
+          <p>Hofsteder Str. 141</p>
+          <p>44809 Bochum, NRW</p>
+          <p>Germany</p>
+          <hr>
+          <p>Panama City</p>
+          <p>0801 Panamá</p>
+          <p>Panama</p>
+          <hr>
+          <strong>Phone:</strong> <?= getTelefonNumber(); ?><br>
+          <strong>Email:</strong> <?= getMail('contact'); ?><br>
           </p>
         </div>
 
@@ -58,7 +58,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
           <div class="social-links mt-3">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://instagram.com/sahin.uk" class="instagram"><i class="bi bi-instagram"></i></a>
             <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
           </div>
         </div>
