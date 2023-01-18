@@ -14,7 +14,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <i class="bi bi-phone d-flex align-items-center ms-4"><span><?= getTelefonNumber(); ?></span></i>
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
-            <a href="https://instagram.com/sahin.uk" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://instagram.com/sahin.software" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
             <a href="https://linkedin.com/company/sahin-software" target="_blank"  class="linkedin"><i class="bi bi-linkedin"></i></i></a>
         </div>
     </div>
