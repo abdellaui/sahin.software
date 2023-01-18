@@ -40,7 +40,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <div class="col-lg-6">
                 <div class="info-box mb-4">
                     <i class="bx bx-map"></i>
-                    <h3>Our Address in Bochum</h3>
+                    <h3>Our Address in Germany</h3>
                     <p>Hofsteder Str. 141</p>
                     <p>44809 Bochum, NRW, Germany</p>
                 </div>
