@@ -18,51 +18,35 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
     <meta name="robots" content="index, follow, noodp, noydir">
     <title>sahin.software ltd. (LLC) - it consulting.</title>
     <meta name="author" content="Abdullah Şahin">
-    <meta name="publisher" content="www.sahin.uk">
+    <meta name="publisher" content="www.sahin.software">
     <meta name="generator" content="Abdullah Sahin">
-    <meta name="copyright" content="2018 (c) sahin.uk">
+    <meta name="copyright" content="2023 (c) sahin.software">
     <meta name="date" content="2021-11-06">
-    <meta name="keywords" content="abdullah sahin, abdullahsahin, datebase, habbolar, habbo,
-            abdullah, şahin, sahin, white hat, devops, engineer, software,
-            digital, it, cloud, germany, abdellaui, abdullah sahin
-            bochum,programming-languages, c/c++, c#, java, typescript,
-            scripting-languages, shell, php, python, javascript,
-            scructural-languages, html, css, yaml, json, query-languages, sql,
-            promql, kql, frameworks, angular, spring-boot, qt, unity,
-            versioning, git, build, qmake, cmake, npm, mvn, pip, anaconda,
-            protocols, tls, ssh, wireguard, openvpn, rest, oidc, saml,
-            websocket, tools, elasticsearch, filebeat, prometheus, grafana,
-            traefik, orchestrator, docker, kubernetes, iac, terraform,
-            terragrunt, cloud, aws, methodology, agile, scrum, waterfall,
-            v-model" lang="de">
-    <meta name="description" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
-            use this page to get a first impression of me!">
-    <meta name="abstract" lang="de" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
-            use this page to get a first impression of me!">
+    <meta name="keywords" content="it consulting" lang="en">
+    <meta name="description" content="sahin.software - it consulting.">
+    <meta name="abstract" lang="de" content="sahin.software - it consulting.">
     <meta name="distribution" content="global">
     <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
 
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="abdullah şahin - an enthusiastic entrepreneur.">
-    <meta property="og:title" content="abdullah şahin - an enthusiastic entrepreneur.">
-    <meta property="og:description" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
-            use this page to get a first impression of me!">
-    <meta property="og:url" content="https://sahin.uk">
-    <meta property="og:image" content="/itsme.jpg">
+    <meta property="og:site_name" content="sahin.software - it consulting.">
+    <meta property="og:title" content="sahin.software - it consulting.">
+    <meta property="og:description" content="sahin.software - it consulting.">
+    <meta property="og:url" content="https://sahin.software">
+    <meta property="og:image" content="/assets/img/hero-bg.jpg">
     <meta property="og:image:height" content="512">
     <meta property="og:image:width" content="512">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="abdullah şahin - an enthusiastic entrepreneur.">
-    <meta name="twitter:description" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
-            use this page to get a first impression of me!">
-    <meta name="twitter:image" content="/itsme.jpg">
-    <link rel="icon" type="image/jpg" href="/itsme.jpg">
-    <link rev="made" href="mailto:abdullah@sahin.uk">
+    <meta name="twitter:title" content="sahin.software - it consulting.">
+    <meta name="twitter:description" content="sahin.software - it consulting.">
+    <meta name="twitter:image" content="/assets/img/hero-bg.jpg">
+    <link rel="icon" type="image/jpg" href="/assets/img/hero-bg.jpg">
+    <link rev="made" href="mailto:contact@sahin.software">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/assets/img/hero-bg.jpg" rel="icon">
+    <link href="/assets/img/hero-bg.jpg" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
