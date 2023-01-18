@@ -12,11 +12,53 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
 
 <head>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-language" content="de">
+    <meta http-equiv="cache-control" content="cache">
+    <meta name="robots" content="index, follow, noodp, noydir">
+    <title>sahin.software ltd. (LLC) - it consulting.</title>
+    <meta name="author" content="Abdullah Şahin">
+    <meta name="publisher" content="www.sahin.uk">
+    <meta name="generator" content="Abdullah Sahin">
+    <meta name="copyright" content="2018 (c) sahin.uk">
+    <meta name="date" content="2021-11-06">
+    <meta name="keywords" content="abdullah sahin, abdullahsahin, datebase, habbolar, habbo,
+            abdullah, şahin, sahin, white hat, devops, engineer, software,
+            digital, it, cloud, germany, abdellaui, abdullah sahin
+            bochum,programming-languages, c/c++, c#, java, typescript,
+            scripting-languages, shell, php, python, javascript,
+            scructural-languages, html, css, yaml, json, query-languages, sql,
+            promql, kql, frameworks, angular, spring-boot, qt, unity,
+            versioning, git, build, qmake, cmake, npm, mvn, pip, anaconda,
+            protocols, tls, ssh, wireguard, openvpn, rest, oidc, saml,
+            websocket, tools, elasticsearch, filebeat, prometheus, grafana,
+            traefik, orchestrator, docker, kubernetes, iac, terraform,
+            terragrunt, cloud, aws, methodology, agile, scrum, waterfall,
+            v-model" lang="de">
+    <meta name="description" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
+            use this page to get a first impression of me!">
+    <meta name="abstract" lang="de" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
+            use this page to get a first impression of me!">
+    <meta name="distribution" content="global">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
 
-    <title>BizLand Bootstrap Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="abdullah şahin - an enthusiastic entrepreneur.">
+    <meta property="og:title" content="abdullah şahin - an enthusiastic entrepreneur.">
+    <meta property="og:description" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
+            use this page to get a first impression of me!">
+    <meta property="og:url" content="https://sahin.uk">
+    <meta property="og:image" content="/itsme.jpg">
+    <meta property="og:image:height" content="512">
+    <meta property="og:image:width" content="512">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="abdullah şahin - an enthusiastic entrepreneur.">
+    <meta name="twitter:description" content="hello, i'm abdullah şahin - an enthusiastic entrepreneur. please
+            use this page to get a first impression of me!">
+    <meta name="twitter:image" content="/itsme.jpg">
+    <link rel="icon" type="image/jpg" href="/itsme.jpg">
+    <link rev="made" href="mailto:abdullah@sahin.uk">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
