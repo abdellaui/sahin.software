@@ -10,4 +10,4 @@
   include('./FOOTER.php');
 ?>
 
-<?= strtoupper('work in progress!'); ?>
+<?php echo 'sahin.software ltd. (LLC) - it consulting. work in progress!'; ?>
