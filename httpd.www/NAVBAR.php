@@ -27,9 +27,9 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <h1 class="logo"><a href="index.html">sahin<span>.software</span></a></h1>
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                <li><a class="nav-link scrollto" href="#about">About</a></li>
-                <li class="dropdown"><a href="#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+                <li><a class="nav-link scrollto active" href="/index.php#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="/index.php#about">About</a></li>
+                <li class="dropdown"><a href="/index.php#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="/index.php#services">Project Management</a></li>
                         <li><a href="/index.php#services">Cloud-Computing</a></li>
