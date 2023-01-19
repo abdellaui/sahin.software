@@ -35,7 +35,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
             <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Services</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="/index.php#references">References</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="/index.php#contact">Contact Us</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://cats.sahin.software/careers/index.php?m=careers&p=showAll">Career</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://cats.sahin.software/careers/index.php?m=careers&p=showAll">Careers</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="/privacy-policy.php">Privacy Policy</a></li>
           </ul>
         </div>
