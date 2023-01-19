@@ -171,17 +171,7 @@ include('./NAVBAR.php');
           <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
           <h1>Contact Us</h1>
           <p>If you have any questions about this Privacy Policy, You can contact us:</p>
-          <ul>
-            <li>
-              <p>By email: contact@sahin.software</p>
-            </li>
-            <li>
-              <p>By phone number: +49 234 60 29 182</p>
-            </li>
-            <li>
-              <p>By mail: Hofsteder Str. 141, 44809 Bochum, Germany</p>
-            </li>
-          </ul>
+          <a href="/index.php#contact">Contact Us</a>
         </div>
       </div>
     </div>
