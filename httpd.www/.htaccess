@@ -36,7 +36,7 @@
   RewriteRule ^ https://sahin.software%{REQUEST_URI} [L,R=301]
   RewriteBase /
   RewriteRule ^\?(.*)$ index.php?$1 [QSA,L]
-  RewriteRule ^.htaccess$ .<?= getProjectURL(); ?>/index.php [NC,L]
+  RewriteRule ^.htaccess$ ./index.php [NC,L]
 
   ### BOOST START ### Changed 
 
