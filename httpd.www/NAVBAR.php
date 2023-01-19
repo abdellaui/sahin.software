@@ -15,7 +15,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
             <a href="https://instagram.com/sahin.software" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="https://linkedin.com/company/sahin-software" target="_blank"  class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+            <a href="https://linkedin.com/company/sahin-software" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
         </div>
     </div>
 </section>
@@ -31,7 +31,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                <li><a class="nav-link scrollto" href="#about">About</a></li>                
+                <li><a class="nav-link scrollto" href="#about">About</a></li>
                 <li class="dropdown"><a href="#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#services">Project Management</a></li>

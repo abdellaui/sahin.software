@@ -27,7 +27,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-cloud"></i></div>
                     <h4><a href="#services">Cloud-Computing</a></h4>
-                    <p>Experienced in migration your on-premise infrastructure to the AWS, Azure & GCP Cloud.</p>
+                    <p>Experienced in migrating your on-premise infrastructure to the AWS, Azure & GCP Cloud.</p>
                 </div>
             </div>
 

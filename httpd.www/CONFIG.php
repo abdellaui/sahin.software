@@ -28,5 +28,3 @@ function getTelefonNumber(){
     $tel = '+49 234 60 29 182';
     return '<a href="tel:' . $tel . '">' . $tel . '</a>';
 }
-
-?>
