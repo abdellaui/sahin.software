@@ -60,7 +60,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.6/swiper-bundle.min.css" integrity="sha512-TiHjTWyqR7jp0HDsbupyltYY6O5qkSn5uLypqLSgNRtc2tEAhD2Dhhfe+0uu3aPxe5LN+quKlyA+j07SRtzxUw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
