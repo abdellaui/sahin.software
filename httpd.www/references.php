@@ -96,6 +96,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 Managing 2 types of Intel RealSense Cameras. Build with C++, Python & ROS.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
+            </a>
           </div>
         </div><!-- End Reference item-->
 
@@ -109,6 +110,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 Creates virtual cameras inside a BIM-based construction. Build with Python & Blender v.2.79b.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
+            </a>
           </div>
         </div><!-- End Reference item-->
 
@@ -122,6 +124,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
                 Detects gender of an images of a human face. Build with C++, OpenCV, Shark, Boost & Qt.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
+            </a>
           </div>
         </div><!-- End Reference item-->
 
