@@ -1,8 +1,5 @@
 <?php
 include('./HEADER.php');
-?>
-
-<?php
 include('./NAVBAR.php');
 ?>
 
