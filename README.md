@@ -7,4 +7,4 @@ ladingpage
 
 
 ## copyright
-Abdullah Sahin @ https://sahin.uk/ @ sahin.uk
+Abdullah Sahin @ https://sahin.uk/

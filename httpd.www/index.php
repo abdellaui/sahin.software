@@ -18,10 +18,10 @@ include('./NAVBAR.php');
 
 
   <?php
-  include './about.php';
-  include './service.php';
-  include './references.php';
-  include './contact.php';
+  include('./about.php');
+  include('./service.php');
+  include('./references.php');
+  include('./contact.php');
 
   ?>
 
