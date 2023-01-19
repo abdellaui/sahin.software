@@ -30,12 +30,12 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php">Home</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#about">About</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Services</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#references">References</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#contact">Contact Us</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://cats.sahin.software/careers/index.php?m=careers&p=showAll">Careers</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#about">About</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#references">References</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#contact">Contact Us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://cats.sahin.software/careers<?= getProjectURL(); ?>/index.php?m=careers&p=showAll">Careers</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="/privacy-policy.php">Privacy Policy</a></li>
           </ul>
         </div>
@@ -43,14 +43,14 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Project-Management</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Cloud-Computing</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Operations</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">DevOps</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">SEO Optimization</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Coaching</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Pentesting & Cyber-Security and Auditing</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Project-Management</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Cloud-Computing</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Operations</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">DevOps</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">SEO Optimization</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Coaching</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="<?= getProjectURL(); ?>/index.php#services">Pentesting & Cyber-Security and Auditing</a></li>
           </ul>
         </div>
 

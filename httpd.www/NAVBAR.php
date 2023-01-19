@@ -29,23 +29,23 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
         <h1 class="logo"><a href="index.html">sahin<span>.software</span></a></h1>
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="/index.php#hero">Home</a></li>
-                <li><a class="nav-link scrollto" href="/index.php#about">About</a></li>
-                <li class="dropdown"><a href="/index.php#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+                <li><a class="nav-link scrollto active" href="<?= getProjectURL(); ?>/index.php#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="<?= getProjectURL(); ?>/index.php#about">About</a></li>
+                <li class="dropdown"><a href="<?= getProjectURL(); ?>/index.php#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
-                        <li><a href="/index.php#services">Project Management</a></li>
-                        <li><a href="/index.php#services">Cloud-Computing</a></li>
-                        <li><a href="/index.php#services">Development</a></li>
-                        <li><a href="/index.php#services">Operations</a></li>
-                        <li><a href="/index.php#services">DevOps</a></li>
-                        <li><a href="/index.php#services">SEO Optimization</a></li>
-                        <li><a href="/index.php#services">Coaching</a></li>
-                        <li><a href="/index.php#services">Pentesting & Cyber-Security and Auditing</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">Project Management</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">Cloud-Computing</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">Development</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">Operations</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">DevOps</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">SEO Optimization</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">Coaching</a></li>
+                        <li><a href="<?= getProjectURL(); ?>/index.php#services">Pentesting & Cyber-Security and Auditing</a></li>
                     </ul>
                 </li>
-                <li><a class="nav-link scrollto" href="/index.php#references">References</a></li>
-                <li><a class="nav-link scrollto" href="/index.php#contact">Contact</a></li>
-                <li><a class="nav-link scrollto" href="https://cats.sahin.software/careers/index.php?m=careers&p=showAll" target="_blank">Careers</a></li>
+                <li><a class="nav-link scrollto" href="<?= getProjectURL(); ?>/index.php#references">References</a></li>
+                <li><a class="nav-link scrollto" href="<?= getProjectURL(); ?>/index.php#contact">Contact</a></li>
+                <li><a class="nav-link scrollto" href="https://cats.sahin.software/careers<?= getProjectURL(); ?>/index.php?m=careers&p=showAll" target="_blank">Careers</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
