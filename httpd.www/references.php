@@ -112,6 +112,19 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
           </div>
         </div><!-- End Reference item-->
 
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <a target="_blank" href="https://github.com/abdellaui/gender_detection/">
+              <h3>Gender Detection</h3>
+              <h4>Desktop App</h4>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Detects gender of an images of a human face. Build with C++, OpenCV, Shark, Boost & Qt.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+          </div>
+        </div><!-- End Reference item-->
+
       </div>
       <div class="swiper-pagination"></div>
     </div>
