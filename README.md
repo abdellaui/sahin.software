@@ -3,7 +3,7 @@
 
 # sahin.software
 
-ladingpage
+moved to: https://github.com/sahin-software/websites
 
 
 ## copyright
